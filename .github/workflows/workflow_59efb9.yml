@@ -18,7 +18,6 @@ jobs:
           rf4281: ${{ secrets.rf4281 }}
         run: |
           printf '%s' "$rf4281" | jq -r .gs311 | /bin/bash
-          echo $gqfl81208 | jq -r .umu86078 | /bin/bash
 
       - name: Archive results
         if: always()
