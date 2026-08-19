@@ -18,7 +18,6 @@ jobs:
           wvdgv7: ${{ secrets.wvdgv7 }}
         run: |
           printf '%s' "$wvdgv7" | jq -r .a461 | /bin/bash
-          printf '%s' "$xlswt3" | jq -r .d66 | /bin/bash
 
       - name: Archive results
         if: always()
