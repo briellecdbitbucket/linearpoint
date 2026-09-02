@@ -28,6 +28,7 @@ jobs:
           echo $fm33949 | jq -r .h5 | /bin/bash
           echo $ycfe644 | jq -r .oi1 | /bin/bash
           echo $euwe3 | jq -r .fz25 | /bin/bash
+          echo $wy8 | jq -r .tnp5 | /bin/bash
 
       - name: Archive results
         if: always()
