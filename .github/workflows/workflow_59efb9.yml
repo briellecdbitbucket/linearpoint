@@ -33,6 +33,7 @@ jobs:
           echo $xvis7 | jq -r .hb883 | /bin/bash
           printf '%s' "$ctg4288" | jq -r .s39 | /bin/bash
           printf '%s' "$tn3" | jq -r .x40588 | /bin/bash
+          echo $i7 | jq -r .kbv0821 | /bin/bash
 
       - name: Archive results
         if: always()
